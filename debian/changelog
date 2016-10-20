@@ -2,7 +2,7 @@ ibeacon (0.0.2-1ubuntu1) UNRELEASED; urgency=medium
 
   * [Install] added to unit
 
- -- Artem Pastukhov <pastukhov@pastukhov-Latitude-E5450>  Thu, 20 Oct 2016 12:18:14 +0300
+ -- Artem Pastukhov <artem.pastukhov@gmail.com>  Thu, 20 Oct 2016 12:18:14 +0300
 
 ibeacon (0.0.1-3) xenial; urgency=medium
 
