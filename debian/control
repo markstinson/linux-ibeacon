@@ -1,7 +1,7 @@
 Source: ibeacon
 Section: unknown
 Priority: optional
-Maintainer: Will Hughes <william@hhome.me>
+Maintainer: Artem Pastukhov <artem.pastukhov@gmail.com>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.6
 Homepage: <insert the upstream URL, if relevant>
